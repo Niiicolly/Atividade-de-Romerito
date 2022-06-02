@@ -9,6 +9,7 @@
 	//adicionar as imagens 
 	//adicionar link da pag de info do filme determinado
 	<img> ____ </img>
+	<a link="">Título do Filme</a>
 	<img> ____ </img>
 	<img> ____ </img>
 
