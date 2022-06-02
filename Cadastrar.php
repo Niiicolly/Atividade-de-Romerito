@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Login do Usuário </title>
+	<title>Tela de Login</title>
+	<link rel="stylesheet" type="text/css" href="CSS.css">
 </head>
-<body>
-	<h1> Bem - vindo a sua tela de login </h1>
-	<h2> Insira as suas informações </h2>
-	<input type="text" name="login" placeholder="Nome de Usuário">
-	<p/>
-	<input type="password" name="senha" placeholder="Senha">
-	<button> Enviar </button>
+<body id="cad">
+	<div id="cd">
+		<h1 class="login1"> Bem - vindo a sua tela de login </h1>
+		<h2 class="login2"> Insira as suas informações </h2>
+		<input type="text" name="login" placeholder="Nome de Usuário">
+		<p/>
+		<input type="password" name="senha" placeholder="Senha">
+		<p/>
+		<button>Enviar</button>
+	</div>
 </body>
 </html>
