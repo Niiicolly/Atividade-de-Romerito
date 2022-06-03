@@ -49,3 +49,31 @@ button{
 	transform: translate(-50%);
 }
 /*[FIM DO CSS DA PÁGINA DE CADASTRO]*/
+
+/*COMEÇO DO CSS DE NÁRNIA - INCOMPLETO*/
+#rig{
+	width: 50%;
+	text-align: justify;
+	padding: 2%;
+	color:  #e7f8fe;
+	font-size: 15px;
+	font-family: "Tw Cen MT", "Times new rowan", Arial;
+	background-color: #086788;
+	display: inline-block;
+	position: relative;
+}
+
+img {
+	position: absolute;
+  	width: 30%;
+  	height: auto;
+  	padding: 0;
+  	left: 63.5%;
+  	margin-top: 1%;
+  	display: inline-block;
+}
+
+#left{
+	top: 0%;
+}
+/*fIM DO CÓDIGO DE NÁRNIA - IMCOMPLETO*/
